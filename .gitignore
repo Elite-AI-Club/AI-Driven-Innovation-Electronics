@@ -164,6 +164,6 @@ cython_debug/
 /backup
 /models
 *.DS_Store
-vehicle_tracking/Test Video.mp4
-vehicle_tracking/yolov8m-seg.pt
-vehicle_tracking/yolov8n-seg.pt
+4_vehicle_tracking/Test Video.mp4
+4_vehicle_tracking/yolov8m-seg.pt
+4_vehicle_tracking/yolov8n-seg.pt
