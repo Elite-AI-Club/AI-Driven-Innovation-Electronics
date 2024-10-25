@@ -172,3 +172,4 @@ cython_debug/
 9_object_detection/yolov8n.pt
 .gitignore
 2_object_detection/yolov8n.pt
+4_vehicle_tracking/vehicle_tracking_output.avi
