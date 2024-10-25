@@ -167,3 +167,7 @@ cython_debug/
 4_vehicle_tracking/Test Video.mp4
 4_vehicle_tracking/yolov8m-seg.pt
 4_vehicle_tracking/yolov8n-seg.pt
+2_object_counting/webcam_counted.mp4
+2_object_counting/yolov8n.pt
+9_object_detection/yolov8n.pt
+.gitignore
